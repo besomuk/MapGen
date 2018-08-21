@@ -1,0 +1,16 @@
+Belgrade Test Project 1
+
+Intro
+The scope of the test is to evaluate the candidate knowledge of development using the Unity engine. Each task ads a layer of difficulty to the previous one. The candidate does not have to complete the whole list of tasks in order to be considered adequate for the job. Do as much as possible considering the time frame. 
+
+MAP API 
+We are creating a 2D MMO game. We need you to create the game world map using the supplied informations.
+
+- Load and parse the JSON data from the given URL
+- Use the JSON data to create the map
+- Display the number of houses on the map
+- Make each tile of the map interactable according to its type (show name of the tile on tap)
+- Make the map scrollable
+- Add the option to demolish building tiles (update the number of houses on the map)
+- Make the map zoomable
+- Procedurally generate the map tiles as it scrolls (use map limits)
